@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.23,
+	"version": 1.24,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -291,12 +291,12 @@
 		{
 			"empId": 20091230000750,
 			"order_no": 1,
-			"name": "সাদেক মিয়া",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/f60317cd_2f9b_427c_abc5_83ba70f0a1c7/aac6a7bfeaf9fc3070f1b99f79565d1f.png",
+			"name": "প্রকৌঃ ইউনুস আলী",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//659/395/17f/65939517f31f7686622129.png",
 			"designation": "ডেপুটি জেনারেল ম্যানেজার (সদর-কারিগরী)",
 			"gender": "male",
-			"dob": "10-12-1981",
-			"blood_group": "B+",
+			"dob": "20-06-1984",
+			"blood_group": "A+",
 			"emp_type": "R",
 			"view_type": 1,
 			"mobile_1": "01769400098",
@@ -891,7 +891,7 @@
 		{
 			"empId": 20220236032538,
 			"order_no": 32,
-			"name": "অনিক কুমার রায়",
+			"name": "",
 			"image": "http://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//622/9a3/da2/6229a3da240bc764028441.jpg",
 			"designation": "সহকারী এনফোর্সমেন্ট কো-অর্ডিনেটর",
 			"gender": "male",
@@ -1515,7 +1515,7 @@
 		{
 			"empId": 19890648003628,
 			"order_no": 64,
-			"name": "মোঃ আমির হোসেন",
+			"name": "কাজী শফিকুলইসলাম",
 			"image": "",
 			"designation": "স্টোর রক্ষক",
 			"gender": "male",
@@ -1523,7 +1523,7 @@
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "01710121576",
+			"mobile_1": "",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
@@ -1685,7 +1685,7 @@
 		{
 			"empId": 20200139025251,
 			"order_no": 74,
-			"name": "অনুশ্রী দাশ অন্তি",
+			"name": "-",
 			"image": "",
 			"designation": "সহকারী ক্যাশিয়ার",
 			"gender": "female",
@@ -1702,7 +1702,7 @@
 		{
 			"empId": 20200259026012,
 			"order_no": 75,
-			"name": "পারুল বেগম",
+			"name": "",
 			"image": "",
 			"designation": "সহকারী ক্যাশিয়ার",
 			"gender": "female",
@@ -1772,7 +1772,7 @@
 			"order_no": 79,
 			"name": "জিয়াসমিন খাতুন",
 			"image": "",
-			"designation": "ডেটা এন্ট্রি অপারেটর",
+			"designation": "ডাটা এন্ট্রি অপারেটর",
 			"gender": "female",
 			"dob": "03-02-1992",
 			"blood_group": "O+",
