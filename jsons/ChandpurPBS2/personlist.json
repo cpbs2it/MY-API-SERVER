@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.27,
+	"version": 1.28,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -1396,7 +1396,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [2, 10],
-			"office_id": [5]
+			"office_id": [8]
 		},
 		{
 			"empId": 20150762017305,
@@ -1413,7 +1413,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [2, 10],
-			"office_id": [8]
+			"office_id": [5]
 		},
 		{
 			"empId": 20021262017302,
@@ -1515,7 +1515,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [5]
+			"office_id": [10]
 		},
 		{
 			"empId": 20161172017850,
@@ -1532,7 +1532,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [10]
+			"office_id": [5]
 		},
 		{
 			"empId": 19890648003628,
