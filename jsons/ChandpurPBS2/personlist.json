@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.28,
+	"version": 1.29,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -1545,7 +1545,7 @@
 			"blood_group": "B+",
 			"emp_type": "R",
 			"view_type": 2,
-			"mobile_1": "",
+			"mobile_1": "01762832911",
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
