@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.49,
+	"version": 1.50,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -354,27 +354,7 @@
 				7
 			]
 		},
-		{
-			"empId": 19901020000634,
-			"order_no": 7,
-			"name": "মালিক মো: ইয়াহিয়া",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/c658b29c_6de7_4b32_9e0c_b11b2060918e/6f5ded891959fec920adf227efb8e679.png",
-			"designation": "সহকারী জেনারেল ম্যানেজার (সদস্য সেবা)",
-			"gender": "male",
-			"dob": "22-10-1964",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 1,
-			"mobile_1": "01769402154",
-			"mobile_2": "",
-			"email": "yeahia@hotmail.com",
-			"section_id": [
-				 2,10
-			],
-			"office_id": [
-				5
-			]
-		},
+		
 		{
 			"empId": 20201130026303,
 			"order_no": 8,
