@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.38,
+	"version": 1.39,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -1582,7 +1582,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [8]
+			"office_id": [5 ]
 		},
 		{
 			"empId": 19991059014202,
