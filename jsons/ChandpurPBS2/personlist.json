@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.42,
+	"version": 1.43,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -1183,7 +1183,7 @@
 				1, 8, 10
 			],
 			"office_id": [
-				10
+				7
 			]
 		},
 		{
@@ -1616,7 +1616,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [9]
+			"office_id": [6]
 		},
 		{
 			"empId": 20170959014402,
@@ -1633,7 +1633,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [9]
 		},
 		{
 			"empId": 20191239024993,
@@ -1650,7 +1650,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [7]
 		},
 		{
 			"empId": 20200139025248,
@@ -1667,7 +1667,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [6]
 		},
 		{
 			"empId": 20200139025250,
@@ -1684,7 +1684,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 20200139025251,
@@ -1922,7 +1922,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 20010761014839,
@@ -1939,7 +1939,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 20020861014834,
@@ -1973,7 +1973,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 20030261014855,
@@ -1990,7 +1990,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [8]
 		},
 		{
 			"empId": 20031261014827,
@@ -2007,7 +2007,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [9]
 		},
 		{
 			"empId": 20190882022293,
@@ -2024,31 +2024,15 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [6]
+			"office_id": [10]
 		},
-		{
-			"empId": 20210282026563,
-			"order_no": 90,
-			"name": "সেতু রানী বৈদ্য",
-			"image": "",
-			"designation": "বিলিং সহকারী",
-			"gender": "female",
-			"dob": "05-05-1999",
-			"blood_group": "A+",
-			"emp_type": "NWNP",
-			"view_type": 3,
-			"mobile_1": "01790352849",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [1, 8, 10],
-			"office_id": [6]
-		},
+		
 		{
 			"empId": 20210282026559,
 			"order_no": 91,
-			"name": "সজান্নাতুল ফেরদাউস",
+			"name": "জান্নাতুল ফেরদাউস",
 			"image": "",
-			"designation": "বিলিং সহকারী",
+			"designation": "বিলিং সহকারি",
 			"gender": "female",
 			"dob": "12-04-1995",
 			"blood_group": "A+",
@@ -2060,29 +2044,13 @@
 			"section_id": [1, 8, 10],
 			"office_id": [6]
 		},
-		{
-			"empId": 19950661014841,
-			"order_no": 92,
-			"name": "নাসরিন জাহান",
-			"image": "",
-			"designation": "বিলিং সহকারী",
-			"gender": "female",
-			"dob": "11-04-1967",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 3,
-			"mobile_1": "01917265821",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [1, 8, 10],
-			"office_id": [8]
-		},
+		
 		{
 			"empId": 20020461014848,
 			"order_no": 93,
 			"name": "ইয়াসমিন আক্তার",
 			"image": "",
-			"designation": "বিলিং সহকারী (এক স্থানে সেবা)",
+			"designation": "বিলিং সহকারী ",
 			"gender": "female",
 			"dob": "09-05-1978",
 			"blood_group": "B+",
@@ -2109,7 +2077,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [8]
+			"office_id": [7]
 		},
 		{
 			"empId": 20030261014854,
@@ -2126,7 +2094,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [8]
+			"office_id": [7]
 		},
 		{
 			"empId": 20210282026555,
@@ -2143,7 +2111,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [8]
+			"office_id": [7]
 		},
 		{
 			"empId": 20210282026565,
@@ -2160,7 +2128,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [8]
+			"office_id": [5]
 		},
 		{
 			"empId": 20210282026492,
@@ -2194,7 +2162,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [6]
 		},
 		{
 			"empId": 20000761014838,
@@ -2211,7 +2179,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [10]
 		},
 		{
 			"empId": 20020461014850,
@@ -2228,7 +2196,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [8]
 		},
 		{
 			"empId": 20030161014857,
@@ -2245,7 +2213,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [6]
 		},
 		{
 			"empId": 20020961014833,
@@ -2279,7 +2247,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [10]
 		},
 		{
 			"empId": 20210282026557,
@@ -2296,7 +2264,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [7]
+			"office_id": [8]
 		},
 		{
 			"empId": 20000561014845,
@@ -2313,7 +2281,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [10]
+			"office_id": [6]
 		},
 		{
 			"empId": 19990461014849,
@@ -2330,7 +2298,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [10]
+			"office_id": [7]
 		},
 		{
 			"empId": 20010861014835,
@@ -2347,7 +2315,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [10]
+			"office_id": [7]
 		},
 		{
 			"empId": 19911261014820,
@@ -2364,7 +2332,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [10]
+			"office_id": [5]
 		},
 		{
 			"empId": 20021261014825,
@@ -2381,7 +2349,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [10]
+			"office_id": [7]
 		},
 		{
 			"empId": 20001161014830,
@@ -2398,25 +2366,9 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [6]
 		},
-		{
-			"empId": 19991061014831,
-			"order_no": 112,
-			"name": "লাভলী আক্তার",
-			"image": "",
-			"designation": "বিলিং সহকারী",
-			"gender": "female",
-			"dob": "20-10-1978",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 3,
-			"mobile_1": "01829101419",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [1, 8, 10],
-			"office_id": [5]
-		},
+		
 		{
 			"empId": 19980761014836,
 			"order_no": 113,
@@ -2432,7 +2384,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [6]
 		},
 		{
 			"empId": 19991261014824,
@@ -2483,7 +2435,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [10]
 		},
 		{
 			"empId": 20030361014852,
@@ -2500,7 +2452,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [8]
 		},
 		{
 			"empId": 20000861014921,
@@ -2517,7 +2469,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [10]
 		},
 		{
 			"empId": 20100561021155,
@@ -2534,31 +2486,15 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [5]
+			"office_id": [8]
 		},
-		{
-			"empId": 20210282026593,
-			"order_no": 121,
-			"name": "বিন্তি সরকার",
-			"image": "",
-			"designation": "বিলিং সহকারী",
-			"gender": "female",
-			"dob": "13-12-1996",
-			"blood_group": "B+",
-			"emp_type": "NWNP",
-			"view_type": 3,
-			"mobile_1": "01999714579",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [1, 8, 10],
-			"office_id": [5]
-		},
+		
 		{
 			"empId": 20210282026559,
 			"order_no": 122,
 			"name": "জান্নাতুল ফেরদাউস",
 			"image": "",
-			"designation": "বিলিং সহকারী",
+			"designation": "বিলিং সহকারি,এক অবস্থানে সেবা",
 			"gender": "female",
 			"dob": "12-04-1995",
 			"blood_group": "A+",
@@ -2585,7 +2521,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [9]
+			"office_id": [5]
 		},
 		{
 			"empId": 20210282026493,
@@ -2602,7 +2538,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [1, 8, 10],
-			"office_id": [9]
+			"office_id": [6]
 		},
 		{
 			"empId": 20190882022299,
