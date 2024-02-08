@@ -1079,27 +1079,7 @@
 				9
 			]
 		},
-		{
-			"empId": 19951261014821,
-			"order_no": 41,
-			"name": "মঞ্জু রানী মজুমদার",
-			"image": "",
-			"designation": "বিলিং সুপারভাইজার (BS)",
-			"gender": "female",
-			"dob": "12-12-1973",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 3,
-			"mobile_1": "01726520424",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [
-				1, 8,,4, 10
-			],
-			"office_id": [
-				6
-			]
-		},
+	
 		{
 			"empId": 19900858013869,
 			"order_no": 42,
