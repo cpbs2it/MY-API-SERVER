@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.54,
+	"version": 1.55,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -4995,7 +4995,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [10]
+			"office_id": [8]
 		},
 		{
 			"empId": 20110165019233,
@@ -5011,26 +5011,10 @@
 			"mobile_1": "01736141165",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [3, 10],
-			"office_id": [8]
+			"section_id": [4, 10],
+			"office_id": [5]
 		},
-		{
-			"empId": 20160165019236,
-			"order_no": 266,
-			"name": "মোঃ কামরুল হাসান",
-			"image": "",
-			"designation": "অফিস সহায়ক",
-			"gender": "male",
-			"dob": "22-12-1985",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01724911311",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [3, 10],
-			"office_id": [7]
-		},
+		
 		{
 			"empId": 20160165019237,
 			"order_no": 267,
@@ -5063,7 +5047,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [5]
+			"office_id": [10]
 		},
 		{
 			"empId": 20191265024995,
@@ -5097,7 +5081,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [9]
+			"office_id": [5]
 		},
 		{
 			"empId": 20150465019008,
@@ -5113,26 +5097,10 @@
 			"mobile_1": "01843538640",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 5, 10],
-			"office_id": [5]
-		},
-		{
-			"empId": 19950164018707,
-			"order_no": 272,
-			"name": "মোঃ মোস্তফা মিয়া",
-			"image": "",
-			"designation": "ড্রাইভার",
-			"gender": "male",
-			"dob": "01-01-1964",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01721543537",
-			"mobile_2": "",
-			"email": "",
 			"section_id": [3, 10],
-			"office_id": [5]
+			"office_id": [9]
 		},
+		
 		{
 			"empId": 20000164018733,
 			"order_no": 273,
@@ -5148,25 +5116,9 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [5]
+			"office_id": [6]
 		},
-		{
-			"empId": 20141264018526,
-			"order_no": 274,
-			"name": "মোঃ খলিলুর রহমান",
-			"image": "",
-			"designation": "ড্রাইভার",
-			"gender": "male",
-			"dob": "28-02-1987",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01775462463",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [3, 10],
-			"office_id": [7]
-		},
+		
 		{
 			"empId": 20151164018397,
 			"order_no": 275,
@@ -5199,7 +5151,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 20160166020191,
@@ -5218,6 +5170,23 @@
 			"section_id": [3, 10],
 			"office_id": [8]
 		},
+        {
+			"empId": 20210364026815,
+			"order_no": 277,
+			"name": "মোঃ ইমরান হোসেন",
+			"image": "",
+			"designation": "ড্রাইভার",
+			"gender": "male",
+			"dob": "15-01-1990",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 4,
+			"mobile_1": "01784603260",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [3, 10],
+			"office_id": [7]
+
 		{
 			"empId": 20160468020826,
 			"order_no": 278,
