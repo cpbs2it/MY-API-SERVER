@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.53,
+	"version": 1.54,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -420,7 +420,7 @@
 			]
 		},
         {
-			"empId": 19891115000563,
+			"empId": 20000135001239,
 			"order_no": 10,
 			"name": "মোঃ মনিরুজ্জামান",
 			"image": "https://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//64f/e8c/491/64fe8c491529c148695433.jpg",
@@ -434,8 +434,31 @@
 			"mobile_2": "",
 			"email": "chandpurpbs2@gmail.com",
 			"section_id": [
-				1,
+                3,
+                9
 
+			],
+			"office_id": [
+				5
+			]
+		},
+        {
+			"empId": 19891115000563,
+			"order_no": 10,
+			"name": "মালিক মোঃ ইয়াহিয়া",
+			"image": "https://file-chittagong.portal.gov.bd/files/pbs2.chandpur.gov.bd/officer_list/c658b29c_6de7_4b32_9e0c_b11b2060918e/6f5ded891959fec920adf227efb8e679.png",
+			"designation": "সহকারী জেনারেল ম্যানেজার (সদস্য-সেবা)",
+			"gender": "male",
+			"dob": "22-10-1964",
+			"blood_group": "O+",
+			"emp_type": "R",
+			"view_type": 1,
+			"mobile_1": "01769402154",
+			"mobile_2": "",
+			"email": "memberservice.cpbs2@gmail.com",
+			"section_id": [
+				2,
+                9
 			],
 			"office_id": [
 				5
@@ -445,7 +468,7 @@
 			"empId": 19891115000563,
 			"order_no": 10,
 			"name": "জোবায়ের হোসেন",
-			"image": "",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/f7040cc7-d4d4-47fa-b7b9-c38f63431d88//650/287/676/6502876761851183152876.jpeg",
 			"designation": "সহকারী জেনারেল ম্যানেজার (অর্থ)",
 			"gender": "male",
 			"dob": "20-08-1963",
