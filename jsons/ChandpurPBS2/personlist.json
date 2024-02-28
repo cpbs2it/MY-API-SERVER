@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.57,
+	"version": 1.58,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -2954,8 +2954,8 @@
 			"mobile_1": "01722945591",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [6]
+			"section_id": [3, 10],
+			"office_id": [5]
 		},
 		{
 			"empId": 20150363012016,
@@ -2991,23 +2991,7 @@
 			"section_id": [4, 10],
 			"office_id": [9]
 		},
-		{
-			"empId": 19991163012449,
-			"order_no": 150,
-			"name": "মোঃ আমিনুল ইসলাম",
-			"image": "",
-			"designation": "লাইনম্যান-২",
-			"gender": "male",
-			"dob": "",
-			"blood_group": "",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [6]
-		},
+		
 		{
 			"empId": 202103983027032,
 			"order_no": 290,
@@ -3025,23 +3009,7 @@
 			"section_id": [4, 10],
 			"office_id": [6]
 		},
-		{
-			"empId": 202103983027123,
-			"order_no": 290,
-			"name": "মোহাম্মদ কামাল",
-			"image": "",
-			"designation": "লাইন শ্রমিক",
-			"gender": "male",
-			"dob": "01-03-1994",
-			"blood_group": "B+",
-			"emp_type": "NWNP",
-			"view_type": 4,
-			"mobile_1": "০১৭৩৪৭৬৭৬৩",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [6]
-		},
+		
 		{
 			"empId": 20190783022243,
 			"order_no": 280,
@@ -3073,8 +3041,8 @@
 			"mobile_1": "01867153695",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 21],
-			"office_id": [11]
+			"section_id": [4, 10,16],
+			"office_id": [12]
 		},
 		{
 			"empId": 20190783022234,
@@ -3090,8 +3058,8 @@
 			"mobile_1": "01854171955",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
+			"section_id": [4, 10,12],
+			"office_id": [12]
 		},
 		{
 			"empId": 20200283025853,
@@ -3107,26 +3075,10 @@
 			"mobile_1": "01780831983",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
+			"section_id": [4, 10,13],
+			"office_id": [12]
 		},
-		{
-			"empId": 20160363006940,
-			"order_no": 157,
-			"name": "মোঃ সারোয়ারুল ইসলাম",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "12-03-1994",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01966653937",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
-		},
+		
 		{
 			"empId": 19840163006990,
 			"order_no": 158,
@@ -3142,7 +3094,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [5]
+			"office_id": [6]
 		},
 		{
 			"empId": 20150663006923,
@@ -3159,7 +3111,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [5]
+			"office_id": [7]
 		},
 		{
 			"empId": 20121063011881,
@@ -3192,8 +3144,8 @@
 			"mobile_1": "01759783078",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [8, 10, 22],
-			"office_id": [12]
+			"section_id": [8, 10],
+			"office_id": [10]
 		},
 		{
 			"empId": 19960163007012,
@@ -3244,7 +3196,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [5]
+			"office_id": [11]
 		},
 		{
 			"empId": 19830163006982,
@@ -3261,7 +3213,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [5]
+			"office_id": [8]
 		},
 		{
 			"empId": 19880163007004,
@@ -3278,7 +3230,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [5]
+			"office_id": [6]
 		},
 		{
 			"empId": 20130563006929,
@@ -3294,8 +3246,8 @@
 			"mobile_1": "01733485310",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
+			"section_id": [4, 10,15],
+			"office_id": [12]
 		},
 		{
 			"empId": 20131263006913,
@@ -3311,26 +3263,10 @@
 			"mobile_1": "01773331373",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
+			"section_id": [4, 10,18],
+			"office_id": [11]
 		},
-		{
-			"empId": 20010163012419,
-			"order_no": 125,
-			"name": "মো. জহিরুল ইসলাম",
-			"image": "",
-			"designation": "লাইন টেকনিশিয়ান",
-			"gender": "male",
-			"dob": "30-06-1981",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01712789670",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
-		},
+		
 		{
 			"empId": 20010463006964,
 			"order_no": 90,
@@ -3399,23 +3335,7 @@
 			"section_id": [4, 10],
 			"office_id": [5]
 		},
-		{
-			"empId": 202103983027071,
-			"order_no": 290,
-			"name": "মোঃ ইমরানুল ফয়সাল",
-			"image": "",
-			"designation": "লাইন শ্রমিক",
-			"gender": "male",
-			"dob": "18-11-2002",
-			"blood_group": "A+",
-			"emp_type": "NWNP",
-			"view_type": 4,
-			"mobile_1": "01630149808",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [5]
-		},
+		
 		{
 			"empId": 202103983026994,
 			"order_no": 290,
@@ -3447,7 +3367,7 @@
 			"mobile_1": "01716374759",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
+			"section_id": [5, 10],
 			"office_id": [5]
 		},
 		{
@@ -3464,7 +3384,7 @@
 			"mobile_1": "01710625511",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 11],
+			"section_id": [4, 10, 14],
 			"office_id": [12]
 		},
 		{
@@ -3481,8 +3401,8 @@
 			"mobile_1": "0162790196",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 11],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [9]
 		},
 		{
 			"empId": 20130463006931,
@@ -3498,7 +3418,7 @@
 			"mobile_1": "01987586928",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 11],
+			"section_id": [4, 10, 22],
 			"office_id": [12]
 		},
 		{
@@ -3549,8 +3469,8 @@
 			"mobile_1": "01753653385",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 13],
-			"office_id": [12]
+			"section_id": [4, 10, 18],
+			"office_id": [11]
 		},
 		{
 			"empId": 20200283025856,
@@ -3566,26 +3486,10 @@
 			"mobile_1": "01685717960",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 13],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [6]
 		},
-		{
-			"empId": 20150663006920,
-			"order_no": 181,
-			"name": "বাবু লাল মুরমু",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "03-10-1994",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01773017556",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10, 12],
-			"office_id": [12]
-		},
+		
 		{
 			"empId": 20160363006939,
 			"order_no": 182,
@@ -3600,26 +3504,10 @@
 			"mobile_1": "01738622600",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 12],
-			"office_id": [12]
-		},
-		{
-			"empId": 19880163007005,
-			"order_no": 183,
-			"name": "মোঃ আলাল আকন",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "28-12-1988",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01722718195",
-			"mobile_2": "",
-			"email": "",
 			"section_id": [4, 10],
-			"office_id": [8]
+			"office_id": [10]
 		},
+		
 		{
 			"empId": 19810163006966,
 			"order_no": 125,
@@ -3634,8 +3522,8 @@
 			"mobile_1": "01716011257",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 12],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [10]
 		},
 		{
 			"empId": 19970154004821,
@@ -3685,26 +3573,10 @@
 			"mobile_1": "01813776411",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 19],
+			"section_id": [4, 10, 24],
 			"office_id": [11]
 		},
-		{
-			"empId": 20001263006971,
-			"order_no": 125,
-			"name": "মোঃ মোজাফ্ফর রহমান",
-			"image": "",
-			"designation": "লাইন টেকনিশিয়ান (ইনচার্জ)",
-			"gender": "male",
-			"dob": "12-08-1979",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01840199145",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10, 15],
-			"office_id": [12]
-		},
+		
 		{
 			"empId": 20160363006942,
 			"order_no": 188,
@@ -3736,8 +3608,8 @@
 			"mobile_1": "01751830796",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 18],
-			"office_id": [11]
+			"section_id": [4, 10],
+			"office_id": [7]
 		},
 		{
 			"empId": 20080163007853,
@@ -3753,8 +3625,8 @@
 			"mobile_1": "01795555733",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 18],
-			"office_id": [11]
+			"section_id": [4, 10, 13],
+			"office_id": [12]
 		},
 		{
 			"empId": 19840163006985,
@@ -3787,8 +3659,8 @@
 			"mobile_1": "01771815640",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 18],
-			"office_id": [11]
+			"section_id": [4, 10],
+			"office_id": [5]
 		},
 		{
 			"empId": 19990363006978,
@@ -3821,8 +3693,8 @@
 			"mobile_1": "01818819167",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [6]
+			"section_id": [4, 10,14],
+			"office_id": [12]
 		},
 		{
 			"empId": 20131263006915,
@@ -3855,8 +3727,8 @@
 			"mobile_1": "",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 16],
-			"office_id": [12]
+			"section_id": [4, 10, 21],
+			"office_id": [11]
 		},
 		{
 			"empId": 19900163007002,
@@ -3872,8 +3744,8 @@
 			"mobile_1": "01842974370",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [8]
+			"section_id": [4, 10,18],
+			"office_id": [11]
 		},
 		{
 			"empId": 19800163006968,
