@@ -2631,7 +2631,7 @@
 			"mobile_1": "01749588880",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 14],
+			"section_id": [4, 10, 17],
 			"office_id": [12]
 		},
 		{
@@ -2648,8 +2648,8 @@
 			"mobile_1": "01817004101",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 14],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [8]
 		},
 		{
 			"empId": 19830163006984,
@@ -2682,7 +2682,7 @@
 			"mobile_1": "01722874674",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 14],
+			"section_id": [4, 10, 11],
 			"office_id": [12]
 		},
 		{
@@ -2699,7 +2699,7 @@
 			"mobile_1": "01836677668",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 15],
+			"section_id": [4, 10, 11],
 			"office_id": [12]
 		},
 		{
@@ -2716,8 +2716,8 @@
 			"mobile_1": "01961877088",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [8]
+			"section_id": [4, 10,15],
+			"office_id": [12]
 		},
 		{
 			"empId": 19880163007008,
@@ -2750,7 +2750,7 @@
 			"mobile_1": "০১৮২১২৯৬১২",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 15],
+			"section_id": [4, 10, 17],
 			"office_id": [12]
 		},
 		{
@@ -2802,7 +2802,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 20140463012509,
@@ -2819,7 +2819,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [6]
+			"office_id": [10]
 		},
 		{
 			"empId": 19840163006980,
@@ -2853,7 +2853,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [6]
+			"office_id": [5]
 		},
 		{
 			"empId": 19950163007013,
@@ -2886,8 +2886,8 @@
 			"mobile_1": "01721082016",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 15],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [6]
 		},
 		{
 			"empId": 19940163007011,
@@ -2920,8 +2920,8 @@
 			"mobile_1": "01918835039",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 12],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [8]
 		},
 		{
 			"empId": 19840163006994,
@@ -2937,8 +2937,8 @@
 			"mobile_1": "01717378555",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [6]
+			"section_id": [4, 10,12],
+			"office_id": [12]
 		},
 		{
 			"empId": 19840163006996,
@@ -5255,7 +5255,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [9]
+			"office_id": [5]
 		},
 		{
 			"empId": 20060166020129,
@@ -5272,7 +5272,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [10]
+			"office_id": [5]
 		},
 		{
 			"empId": 20070166020130,
@@ -5357,7 +5357,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [3, 10],
-			"office_id": [6]
+			"office_id": [8]
 		},
 		{
 			"empId": 825461,
