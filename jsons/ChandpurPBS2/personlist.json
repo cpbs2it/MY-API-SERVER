@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.58,
+	"version": 1.59,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -3761,8 +3761,8 @@
 			"mobile_1": "01836677668",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [8]
+			"section_id": [4, 10,11],
+			"office_id": [12]
 		},
 		{
 			"empId": 19830163006998,
@@ -3812,8 +3812,8 @@
 			"mobile_1": "01627776833",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [8]
+			"section_id": [4, 10,14],
+			"office_id": [12]
 		},
 		{
 			"empId": 202103983027050,
@@ -3897,8 +3897,8 @@
 			"mobile_1": "01840436955",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [7]
+			"section_id": [4, 10,12],
+			"office_id": [12]
 		},
 		{
 			"empId": 19990363006958,
@@ -3914,8 +3914,8 @@
 			"mobile_1": "01833078545",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [7]
+			"section_id": [4, 10,27],
+			"office_id": [12]
 		},
 		{
 			"empId": 19900163007006,
@@ -3932,7 +3932,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [7]
+			"office_id": [6]
 		},
 		{
 			"empId": 20160363006947,
@@ -3966,7 +3966,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [10]
+			"office_id": [8]
 		},
 		{
 			"empId": 20160363021043,
@@ -4000,7 +4000,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [7]
+			"office_id": [5]
 		},
 		{
 			"empId": 19980163006956,
@@ -4019,23 +4019,7 @@
 			"section_id": [4, 10],
 			"office_id": [7]
 		},
-		{
-			"empId": 19900163007007,
-			"order_no": 214,
-			"name": "রঞ্জু আহাম্মেদ",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "07-11-1990",
-			"blood_group": "A+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01743622199",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [7]
-		},
+		
 		{
 			"empId": 20150363013670,
 			"order_no": 215,
@@ -4101,8 +4085,8 @@
 			"mobile_1": "০১৮৬৪৩৭২১৪",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [7]
+			"section_id": [4, 10,15],
+			"office_id": [12]
 		},
 		{
 			"empId": 202103983026984,
@@ -4186,7 +4170,7 @@
 			"mobile_1": "01750876702",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
+			"section_id": [4, 10,21],
 			"office_id": [5]
 		},
 		{
@@ -4221,7 +4205,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10, 24],
-			"office_id": [11]
+			"office_id": [12]
 		},
 		{
 			"empId": 20060573022038,
@@ -4255,7 +4239,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [10]
+			"office_id": [5]
 		},
 		{
 			"empId": 20010463006900,
@@ -4288,8 +4272,8 @@
 			"mobile_1": "01759783078",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [10]
+			"section_id": [4, 10,12],
+			"office_id": [12]
 		},
 		{
 			"empId": 20150563013345,
@@ -4308,40 +4292,8 @@
 			"section_id": [4, 10],
 			"office_id": [6]
 		},
-		{
-			"empId": 20160363006936,
-			"order_no": 231,
-			"name": "সুজন কুমার রায়",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "05-05-1993",
-			"blood_group": "B+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01746717085",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [10]
-		},
-		{
-			"empId": 20160363006944,
-			"order_no": 232,
-			"name": "মোঃ আরাফাত রহমান",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "31-12-1994",
-			"blood_group": "O-",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01750220384",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10, 22],
-			"office_id": [12]
-		},
+		
+		
 		{
 			"empId": 20170363006951,
 			"order_no": 233,
@@ -4373,26 +4325,10 @@
 			"mobile_1": "01868827538",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10],
-			"office_id": [10]
+			"section_id": [4, 10,15],
+			"office_id": [12]
 		},
-		{
-			"empId": 202103983027005,
-			"order_no": 280,
-			"name": "মমিন হোসেন",
-			"image": "",
-			"designation": "লাইন ক্রু লেভেল-১",
-			"gender": "male",
-			"dob": "25-01-1998",
-			"blood_group": "A+",
-			"emp_type": "NWNP",
-			"view_type": 4,
-			"mobile_1": "০১৬৭৯৬৫১১১",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10],
-			"office_id": [10]
-		},
+		
 		{
 			"empId": 202103983027005,
 			"order_no": 125,
@@ -4407,8 +4343,8 @@
 			"mobile_1": "01712267125",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 25],
-			"office_id": [11]
+			"section_id": [4, 10, 16],
+			"office_id": [12]
 		},
 		{
 			"empId": 19990354004820,
