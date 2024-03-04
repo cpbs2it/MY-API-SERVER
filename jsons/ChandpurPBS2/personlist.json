@@ -1,6 +1,6 @@
 {
 	"title": "Persons",
-	"version": 1.59,
+	"version": 1.60,
 	"filter_office_ids": [5, 6, 7, 8, 9, 10, 11, 12],
 	"person_list": [
         {
@@ -4479,8 +4479,8 @@
 			"mobile_1": "01783122922",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 17],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [5]
 		},
 		{
 			"empId": 20150663006927,
@@ -4496,7 +4496,7 @@
 			"mobile_1": "01737305050",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 17],
+			"section_id": [4, 10, 12],
 			"office_id": [12]
 		},
 		{
@@ -4547,8 +4547,8 @@
 			"mobile_1": "01735711955",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 21],
-			"office_id": [11]
+			"section_id": [4, 10],
+			"office_id": [5]
 		},
 		{
 			"empId": 19991263006962,
@@ -4582,7 +4582,7 @@
 			"mobile_2": "",
 			"email": "",
 			"section_id": [4, 10],
-			"office_id": [9]
+			"office_id": [7]
 		},
 		{
 			"empId": 19890163007000,
@@ -4717,8 +4717,8 @@
 			"mobile_1": "01717928754",
 			"mobile_2": "",
 			"email": "",
-			"section_id": [4, 10, 16],
-			"office_id": [12]
+			"section_id": [4, 10],
+			"office_id": [7]
 		},
 		{
 			"empId": 20160363006937,
@@ -4737,23 +4737,7 @@
 			"section_id": [4, 10],
 			"office_id": [5]
 		},
-		{
-			"empId": 20160363006938,
-			"order_no": 261,
-			"name": "মোঃ ইসরাফিল হোসেন",
-			"image": "",
-			"designation": "লাইনম্যান-১",
-			"gender": "male",
-			"dob": "15-03-1994",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01945954639",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [4, 10, 16],
-			"office_id": [12]
-		},
+		
 		{
 			"empId": 20160363006950,
 			"order_no": 262,
@@ -4771,23 +4755,7 @@
 			"section_id": [4, 10],
 			"office_id": [7]
 		},
-		{
-			"empId": 19890167020669,
-			"order_no": 263,
-			"name": "মোঃ হুমায়ুন কবির বক্স",
-			"image": "",
-			"designation": "পিসিএম",
-			"gender": "male",
-			"dob": "01-11-1969",
-			"blood_group": "O+",
-			"emp_type": "R",
-			"view_type": 4,
-			"mobile_1": "01882864733",
-			"mobile_2": "",
-			"email": "",
-			"section_id": [8, 10],
-			"office_id": [7]
-		},
+		
 		{
 			"empId": 19990165019232,
 			"order_no": 264,
@@ -4908,6 +4876,24 @@
 			"section_id": [3, 10],
 			"office_id": [9]
 		},
+        {
+			"empId": 20230165034261,
+			"order_no": 271,
+			"name": "মোঃ ইমরান হোসেন",
+			"image": "",
+			"designation": "অফিস সহায়ক",
+			"gender": "male",
+			"dob": "23-06-1995",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 4,
+			"mobile_1": "01672687380",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [3, 10],
+			"office_id": [7]
+		},
+        
 		
 		{
 			"empId": 20000164018733,
@@ -4978,6 +4964,24 @@
 			"section_id": [3, 10],
 			"office_id": [8]
 		},
+        {
+			"empId": 20210364026815,
+			"order_no": 277,
+			"name": "মোঃ ইমরান হোসেন",
+			"image": "",
+			"designation": "ড্রাইভার",
+			"gender": "male",
+			"dob": "15-01-1990",
+			"blood_group": "B+",
+			"emp_type": "R",
+			"view_type": 4,
+			"mobile_1": "01784603260",
+			"mobile_2": "",
+			"email": "",
+			"section_id": [3, 10],
+			"office_id": [7]
+		},
+       
        
 		
 		{
@@ -5967,16 +5971,16 @@
 		{
 			"empId": 1047,
 			"order_no": 1047,
-			"name": "মোঃ ইদ্রিস আলী মিঞা",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/6a40b5a9-c7de-49b9-b87f-4c9b89007f07//62f/751/ba0/62f751ba0f250161857457.jpg",
-			"designation": "নির্বাহী প্রকৌশলী (এসওডি)/ আবসরপ্রাপ্ত",
+			"name": "হাবিবুর রহমান",
+			"image": "",
+			"designation": "নির্বাহী প্রকৌশলী (এসওডি)",
 			"gender": "male",
 			"dob": "",
 			"blood_group": "",
 			"emp_type": "",
 			"view_type": 1,
-			"mobile_1": "০১৭১১৫৭৭৬১৭",
-			"mobile_2": "০২৩৩৪৪৮৭৮৭৫",
+			"mobile_1": "০১৭১৬২৭৬০৫০",
+			"mobile_2": "০২৩৩৪৪০৫৮৬০",
 			"email": "xenbrebchandpur@gmail.com",
 			"section_id": [38],
 			"office_id": [
@@ -5986,17 +5990,17 @@
 		{
 			"empId": 1048,
 			"order_no": 1048,
-			"name": "মোঃ সফিকুর রহমান",
-			"image": "http://file-chittagong.portal.gov.bd/uploads/6a40b5a9-c7de-49b9-b87f-4c9b89007f07//62f/74f/976/62f74f9767136894625025.jpg",
+			"name": "মিজানুর রহমান",
+			"image": "https://file-chittagong.portal.gov.bd/uploads/e3daf31a-9c10-4197-9168-5f4d162c15ba//632/7f7/29a/6327f729ad8b8940022314.jpg",
 			"designation": "সহকারী প্রকৌশলী",
 			"gender": "male",
 			"dob": "",
 			"blood_group": "",
 			"emp_type": "",
 			"view_type": 1,
-			"mobile_1": "০১৬২৬৫০১০৭৭",
+			"mobile_1": "০১৭৯৬৩৩২৩৭৪",
 			"mobile_2": "",
-			"email": "safiqbreb@gmail.com",
+			"email":"mizanurrahmanshamim071@gmail.com",
 			"section_id": [38],
 			"office_id": [
 				13
@@ -6211,25 +6215,7 @@
 				13
 			]
 		},
-		{
-			"empId": 1059,
-			"order_no": 1059,
-			"name": "মোঃ মনির উজ জামান",
-			"image": "http://file-chittagong.portal.gov.bd/files/pbs1.chandpur.gov.bd/officer_list/792dbb29_acb7_43c6_bf1e_9f541d2aa692/84ae19a0ecbe4c7191ab4bb1f60b4a81.png",
-			"designation": "এজিএম (আইটি), সদর দপ্তর",
-			"gender": "male",
-			"dob": "",
-			"blood_group": "",
-			"emp_type": "",
-			"view_type": 1,
-			"mobile_1": "০১৭০৪১০৬৬৮১",
-			"mobile_2": "",
-			"email": "monir.zaman1841@gmail.com",
-			"section_id": [39],
-			"office_id": [
-				13
-			]
-		},
+		
 		{
 			"empId": 1060,
 			"order_no": 1060,
@@ -6287,25 +6273,7 @@
 				13
 			]
 		},
-		{
-			"empId": 1063,
-			"order_no": 1063,
-			"name": "Md Mizanur Rahman",
-			"image": "http://file-chittagong.portal.gov.bd/files/brta.chandpur.gov.bd/officer_list/b0f85c2d_aadd_491d_b11a_89f69a68b445/f878e07fba8e58bbb346eabfa74546b3.png",
-			"designation": "সহকারী পরিচালক (ইঞ্জিঃ)",
-			"gender": "male",
-			"dob": "",
-			"blood_group": "",
-			"emp_type": "",
-			"view_type": 1,
-			"mobile_1": "০১৯৬৬৬২২০৫৯",
-			"mobile_2": "০৪৮১৬৬৯৭০",
-			"email": "ad_chandpur@brta.gov.bd",
-			"section_id": [41],
-			"office_id": [
-				13
-			]
-		},
+		
 		{
 			"empId": 1064,
 			"order_no": 1064,
