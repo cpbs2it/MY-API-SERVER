@@ -5,7 +5,7 @@
 চাঁদপুর পল্লী বিদ্যুৎ সমিতি-২ এর Mobile Application এ অত্র প্রতিষ্ঠানের সকল কার্যপ্রণালী এবং সকল কর্মকর্তা-কর্মচারীর তথ্য লিপিবদ্ধ আছে।
 
 <p align="center">
-<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/cover1.jpg?raw=true">
+<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/cover1.png?raw=true">
 </p>
 
 ### App Features
@@ -20,10 +20,10 @@
 
 ### Screenshots
 <p align="center">
-<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss1.jpg?raw=true" width="222">
-<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss2.jpg?raw=true" width="222">
-<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss3.jpg?raw=true" width="222">
-<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss4.jpg?raw=true" width="222">
+<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss1.png?raw=true" width="222">
+<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss2.png?raw=true" width="222">
+<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss3.png?raw=true" width="222">
+<img src="https://github.com/cpbs2it/MY-API-SERVER/blob/main/images/ss/ss4.png?raw=true" width="222">
 </p>
 
 ### Version
